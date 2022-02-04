@@ -93,7 +93,7 @@
         return n.d(a, "a", a), a
     }, n.o = function(e, a) {
         return Object.prototype.hasOwnProperty.call(e, a)
-    }, n.p = "../../../../../../../cdn.h5wan.4399sj.com/h5mini-2.0/dist/", n.oe = function(e) {
+    }, n.p = "../../../../../cdn.h5wan.4399sj.com/h5mini-2.0/dist/", n.oe = function(e) {
         throw console.error(e), e
     }
 }([]);
