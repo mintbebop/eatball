@@ -4,7 +4,7 @@ function addScript(url) {
     script.setAttribute('src', url);
     document.getElementsByTagName('head')[0].appendChild(script);
 }
-addScript("./h.api.4399.com/h5mini-2.0/h5api-interface.php");
+addScript("../h.api.4399.com/h5mini-2.0/h5api-interface.php");
 var _czc = _czc || [];
 
 MetaAd = {
