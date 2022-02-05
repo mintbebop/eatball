@@ -3437,7 +3437,7 @@ webpackJsonp([35], {
             qe = e("XWX1"),
             $e = function() {
                 return Q.default.console.debug("解析XML获取游戏基本信息"), new oe.a(function(t) {
-                    Q.default.axios.get("../../../../../9/base.xml").then(function(n) {
+                    Q.default.axios.get("https://mintbebop.github.io/game/snake/9/base.xml").then(function(n) {
                         Object(qe.parseString)(n.data, {
                             explicitArray: !1,
                             ignoreAttrs: !0
